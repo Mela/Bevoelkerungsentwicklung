@@ -1,0 +1,62 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/i3f/v20/1987345/canvas/1883637"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sterbezahlen der St\u00e4dte \u00fcber 100.000 Einwohner ver\u00f6ffentlicht am 24.1.1922",
+            "purpose": "bookmarking",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T02:52:19.103Z",
+            "modified": "2022-09-08T02:52:22.149Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "sterbedaten",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T02:52:24.943Z",
+            "modified": "2022-09-08T02:52:26.276Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.436916645345608,
+                    49.00697897557601
+                ]
+            },
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T02:52:35.688Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/i3f/v20/1987345/canvas/1883637",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2387.83642578125,2527.909423828125,1158.743408203125,2956.083251953125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/1987345/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8e62fc49-2c32-42e4-b8b4-19fb58fbeea3.json",
+    "motivation": "commenting"
+}
