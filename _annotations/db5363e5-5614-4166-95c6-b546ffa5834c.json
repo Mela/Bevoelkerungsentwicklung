@@ -1,0 +1,221 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/i3f/v20/3773979/canvas/3654454"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Die Sterblichkeit in Baden im Jahre 1920 \u2014 12.4.1922 \u2014 Der Volksfreund \n\nBasically der gleiche Artikel, der auch schon in den anderen Zeitungen erschienen ist. Nur noch sp\u00e4ter. ",
+            "purpose": "bookmarking",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:34:50.323Z",
+            "modified": "2022-09-08T04:35:47.436Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            16,
+                            48
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    8.386505,
+                                    49.487695
+                                ],
+                                [
+                                    8.205231,
+                                    48.978354
+                                ],
+                                [
+                                    7.947052,
+                                    48.70359
+                                ],
+                                [
+                                    7.738312,
+                                    48.401795
+                                ],
+                                [
+                                    7.639435,
+                                    48.178846
+                                ],
+                                [
+                                    7.573517,
+                                    47.892345
+                                ],
+                                [
+                                    7.518585,
+                                    47.693064
+                                ],
+                                [
+                                    7.562531,
+                                    47.626467
+                                ],
+                                [
+                                    8.040436,
+                                    47.607953
+                                ],
+                                [
+                                    8.699616,
+                                    47.652376
+                                ],
+                                [
+                                    9.320343,
+                                    47.678272
+                                ],
+                                [
+                                    9.243439,
+                                    47.888661
+                                ],
+                                [
+                                    8.98526,
+                                    48.0615
+                                ],
+                                [
+                                    8.578766,
+                                    48.149535
+                                ],
+                                [
+                                    8.386505,
+                                    47.991699
+                                ],
+                                [
+                                    7.980011,
+                                    48.160528
+                                ],
+                                [
+                                    8.11734,
+                                    48.449183
+                                ],
+                                [
+                                    8.402985,
+                                    48.54019
+                                ],
+                                [
+                                    8.611725,
+                                    48.725337
+                                ],
+                                [
+                                    8.957794,
+                                    48.866461
+                                ],
+                                [
+                                    9.084137,
+                                    49.237268
+                                ],
+                                [
+                                    9.375275,
+                                    49.423421
+                                ],
+                                [
+                                    9.622467,
+                                    49.526932
+                                ],
+                                [
+                                    9.452179,
+                                    49.690672
+                                ],
+                                [
+                                    9.073151,
+                                    49.690672
+                                ],
+                                [
+                                    8.661163,
+                                    49.494831
+                                ],
+                                [
+                                    8.386505,
+                                    49.487695
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:37:56.858Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1920",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:36:03.373Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Baden",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:36:08.421Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "sterblichkeitszahlen",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:36:13.470Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "todesursachen",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:36:18.219Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "volksfreund",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:36:38.913Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/i3f/v20/3773979/canvas/3654454",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1187.85546875,3369.398681640625,1043.0810546875,1044.898193359375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/3773979/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "db5363e5-5614-4166-95c6-b546ffa5834c.json",
+    "motivation": "commenting"
+}
