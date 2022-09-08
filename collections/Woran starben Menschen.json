@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Woran starben Menschen",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://mela.github.io/Bevoelkerungsentwicklung/annotations/i3f-v20-1987345-1883637-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
