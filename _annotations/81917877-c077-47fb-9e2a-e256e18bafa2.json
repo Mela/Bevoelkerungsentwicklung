@@ -1,0 +1,65 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/i3f/v20/2659018/canvas/2530887"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Aufgaben der Tuberkulosebek\u00e4mpfung in der Gegenwart \u2014 29.4.1922 \u2014 Karlsruher Tagblatt ",
+            "purpose": "bookmarking",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T07:39:23.952Z",
+            "modified": "2022-09-08T07:40:05.853Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "tuberkulose",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T07:40:12.126Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1922",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T07:40:17.378Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "soziale hygiene",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T07:40:33.871Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/i3f/v20/2659018/canvas/2530887",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=376.8818054199219,984.4312133789062,1855.0127258300781,4650.503845214844"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/2659018/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "81917877-c077-47fb-9e2a-e256e18bafa2.json",
+    "motivation": "commenting"
+}
