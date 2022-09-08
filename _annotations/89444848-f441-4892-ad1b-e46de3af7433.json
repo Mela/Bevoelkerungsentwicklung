@@ -1,0 +1,85 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/i3f/v20/4989096/canvas/4930279"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Die Sterblichkeit in Baden im Jahr 1920 \u2014 16.3.1922 \u2014 Durlacher Tageblatt",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:04:00.074Z",
+            "modified": "2022-09-08T04:04:42.889Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1920",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:04:50.684Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Baden",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:04:58.562Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Durlach",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:05:01.655Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "karlsruhe",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:05:07.415Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "sterblichkeitszahlen",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T04:05:20.618Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/i3f/v20/4989096/canvas/4930279",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1100.693359375,1967.62109375,1158.67919921875,1310.250732421875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/4989096/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "89444848-f441-4892-ad1b-e46de3af7433.json",
+    "motivation": "commenting"
+}
