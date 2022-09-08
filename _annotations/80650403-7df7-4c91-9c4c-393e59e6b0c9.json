@@ -3,34 +3,36 @@ canvas: "https://digital.blb-karlsruhe.de/i3f/v20/1987345/canvas/1883638"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Sterbezahlen der St\u00e4dte \u00fcber 100.000 Einwohner ver\u00f6ffentlicht am 24.1.1922 \u2014 Teil 2",
-            "purpose": "bookmarking",
-            "creator": {
-                "id": "Mela",
-                "name": "Mela Eckenfels"
-            },
             "created": "2022-09-08T02:51:24.493Z",
-            "modified": "2022-09-08T02:51:33.271Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "sterbedaten",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
-            "created": "2022-09-08T02:51:37.151Z"
+            "modified": "2022-09-08T02:51:33.271Z",
+            "purpose": "bookmarking",
+            "type": "TextualBody",
+            "value": "Sterbezahlen der St\u00e4dte \u00fcber 100.000 Einwohner ver\u00f6ffentlicht am 24.1.1922 \u2014 Teil 2"
         },
         {
-            "purpose": "geotagging",
-            "type": "Feature",
+            "created": "2022-09-08T02:51:37.151Z",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "sterbedaten"
+        },
+        {
+            "created": "2022-09-08T02:51:56.762Z",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4378,29 +4380,37 @@ order: 1
                             48.9898548
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
+            "purpose": "geotagging",
             "source": "https://www.openstreetmap.org/relation/62518",
+            "type": "Feature"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1922",
             "creator": {
                 "id": "Mela",
                 "name": "Mela Eckenfels"
             },
-            "created": "2022-09-08T02:51:56.762Z"
+            "created": "2022-09-08T02:56:25.110Z"
         }
     ],
+    "id": "80650403-7df7-4c91-9c4c-393e59e6b0c9.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://digital.blb-karlsruhe.de/i3f/v20/1987345/canvas/1883638",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=915.0094604492188,507.9906921386719,1141.3259887695312,501.1740417480469"
-        },
         "dcterms:isPartOf": {
             "id": "https://digital.blb-karlsruhe.de/i3f/v20/1987345/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=915.0094604492188,507.9906921386719,1141.3259887695312,501.1740417480469"
+        },
+        "source": "https://digital.blb-karlsruhe.de/i3f/v20/1987345/canvas/1883638"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "80650403-7df7-4c91-9c4c-393e59e6b0c9.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
