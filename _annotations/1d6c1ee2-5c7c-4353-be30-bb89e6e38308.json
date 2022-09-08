@@ -4376,6 +4376,36 @@ order: 1
                 "name": "Mela Eckenfels"
             },
             "created": "2022-09-08T03:45:03.928Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "karlsruhe",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T03:45:32.757Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1922",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T03:45:35.892Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "sterblichkeitszahlen",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T03:45:57.887Z"
         }
     ],
     "target": {
