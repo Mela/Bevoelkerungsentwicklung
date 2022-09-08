@@ -42,6 +42,16 @@ order: 2
             },
             "purpose": "geotagging",
             "type": "Feature"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1922",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T02:55:56.641Z"
         }
     ],
     "id": "8e62fc49-2c32-42e4-b8b4-19fb58fbeea3.json",
