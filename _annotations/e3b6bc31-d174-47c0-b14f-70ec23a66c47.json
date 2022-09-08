@@ -1,0 +1,75 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/i3f/v20/2659018/canvas/2530887"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Die sozialhygienische Bedeutung der Qu\u00e4kerarbeit \u2014 29.4.1922 \u2014 Karlsruher Tagblatt",
+            "purpose": "bookmarking",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T07:41:18.324Z",
+            "modified": "2022-09-08T07:42:04.901Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "qu\u00e4ker",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T07:42:11.741Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "soziale hygiene",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T07:42:17.524Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1922",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T07:42:21.537Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "aufsatz",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T07:42:28.242Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/i3f/v20/2659018/canvas/2530887",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2212.436279296875,951.9736328125,1861.498779296875,4715.3642578125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/2659018/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e3b6bc31-d174-47c0-b14f-70ec23a66c47.json",
+    "motivation": "commenting"
+}
