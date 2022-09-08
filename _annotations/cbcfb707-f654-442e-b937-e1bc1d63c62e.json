@@ -1,0 +1,55 @@
+---
+canvas: "https://digital.blb-karlsruhe.de/i3f/v20/1987473/canvas/1884090"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Die Sterblichkeit in deutschen Gro\u00dfst\u00e4dten (M\u00e4rz 1922) \u2014 19.5.1922 \u2014 Karlsruher Zeitung \u2014 Teil 2",
+            "purpose": "bookmarking",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T08:06:35.613Z",
+            "modified": "2022-09-08T08:06:40.809Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1922",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T08:06:44.517Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "sterblichkeitszahlen",
+            "creator": {
+                "id": "Mela",
+                "name": "Mela Eckenfels"
+            },
+            "created": "2022-09-08T08:06:48.970Z"
+        }
+    ],
+    "target": {
+        "source": "https://digital.blb-karlsruhe.de/i3f/v20/1987473/canvas/1884090",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2052.25244140625,636.8082275390625,1094.212158203125,2140.3675537109375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digital.blb-karlsruhe.de/i3f/v20/1987473/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cbcfb707-f654-442e-b937-e1bc1d63c62e.json",
+    "motivation": "commenting"
+}
