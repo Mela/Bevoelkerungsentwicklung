@@ -51,6 +51,12 @@
             "title": "",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://mela.github.io/Bevoelkerungsentwicklung/annotations/i3f-v20-3773979-3654454-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
